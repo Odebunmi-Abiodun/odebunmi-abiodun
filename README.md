@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Odebunmi Abiodun** Problem Solver(Engineer) `README.md` (this file) appears on your GitHub profile.
+**Odebunmi Abiodun** is a mechanical engineering student looking to learn and help solve problems 
 
 Here are some ideas to get you started:
 
