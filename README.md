@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Odebunmi-Abiodun/odebunmi-abiodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Odebunmi Abiodun** Problem Solver(Engineer) `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on finding a comfortable ground in tech 
+- 🌱 I’m currently learning MySQL and JavaScript 
+- 👯 I’m looking to collaborate on life changing projects amd gigs 
+- 🤔 I’m looking for help with mastering and perfecting my skills 
+- 💬 Ask me about Anything 
+- 📫 How to reach me:odebunmiabiodun04@gmail.com
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: Jesus knows you and loves you 
 -->
